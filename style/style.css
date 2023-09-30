@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    float:none;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.navigation a{
+    text-decoration: none;
+    color: black;
+    border: 20px solid white;
+    margin: 30px;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    border: 2px solid rgb(112, 126, 125);
+    padding: 30px;
+    padding-left: 40%;
+}
+b{
+    padding-left: 42%;
+    color: brown;
+}
+
